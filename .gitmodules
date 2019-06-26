@@ -1,9 +1,3 @@
-[submodule "bundle/nerdtree"]
-	path = bundle/nerdtree
-    url = https://github.com/scrooloose/nerdtree.git
-[submodule "bundle/tabular"]
-	path = bundle/tabular
-    url = https://github.com/godlygeek/tabular.git
 [submodule "bundle/vim-colors-solarized"]
 	path = bundle/vim-colors-solarized
     url = https://github.com/altercation/vim-colors-solarized.git
@@ -19,12 +13,6 @@
 [submodule "bundle/vim-indent-lines"]
     path = bundle/vim-indent-lines
 	url = https://github.com/Yggdroot/indentLine.git
-[submodule "bundle/vim-go"]
-	path = bundle/vim-go
-	url = https://github.com/fatih/vim-go.git
-[submodule "bundle/vim-cfmt"]
-	path = bundle/vim-cfmt
-	url = https://github.com/crosbymichael/vim-cfmt
 [submodule "bundle/vim-toml"]
 	path = bundle/vim-toml
 	url = https://github.com/cespare/vim-toml.git
@@ -40,69 +28,33 @@
 [submodule "bundle/delimitMate"]
 	path = bundle/delimitMate
 	url = https://github.com/Raimondi/delimitMate.git
-[submodule "bundle/vim-bbye"]
-	path = bundle/vim-bbye
-	url = https://github.com/moll/vim-bbye.git
-[submodule "bundle/vim-sayonara"]
-	path = bundle/vim-sayonara
-	url = https://github.com/mhinz/vim-sayonara.git
 [submodule "bundle/vim-gitgutter"]
 	path = bundle/vim-gitgutter
 	url = https://github.com/airblade/vim-gitgutter.git
 [submodule "bundle/vim-python-pep8-indent"]
 	path = bundle/vim-python-pep8-indent
 	url = https://github.com/hynek/vim-python-pep8-indent.git
-[submodule "bundle/deoplete.nvim"]
-	path = bundle/deoplete.nvim
-	url = https://github.com/Shougo/deoplete.nvim.git
-[submodule "bundle/deoplete-go"]
-	path = bundle/deoplete-go
-	url = https://github.com/zchee/deoplete-go.git
 [submodule "bundle/vim-buftabline"]
 	path = bundle/vim-buftabline
 	url = https://github.com/ap/vim-buftabline.git
-[submodule "bundle/vim-multiple-cursors"]
-	path = bundle/vim-multiple-cursors
-	url = https://github.com/terryma/vim-multiple-cursors.git
-[submodule "bundle/vim-hclfmt"]
-	path = bundle/vim-hclfmt
-	url = https://github.com/fatih/vim-hclfmt.git
-[submodule "bundle/vim-airline"]
-	path = bundle/vim-airline
-	url = https://github.com/vim-airline/vim-airline.git
-[submodule "bundle/vim-airline-themes"]
-	path = bundle/vim-airline-themes
-	url = https://github.com/vim-airline/vim-airline-themes.git
 [submodule "bundle/linuxsty.vim"]
 	path = bundle/linuxsty.vim
 	url = https://github.com/vivien/vim-linux-coding-style.git
 [submodule "bundle/vim-systemd"]
 	path = bundle/vim-systemd
 	url = https://github.com/wgwoods/vim-systemd-syntax.git
-[submodule "bundle/rust.vim"]
-	path = bundle/rust.vim
-	url = https://github.com/rust-lang/rust.vim.git
 [submodule "bundle/vim-terraform"]
 	path = bundle/vim-terraform
 	url = https://github.com/hashivim/vim-terraform.git
-[submodule "bundle/nerdtree-git-plugin"]
-	path = bundle/nerdtree-git-plugin
-	url = https://github.com/Xuyuanp/nerdtree-git-plugin.git
 [submodule "bundle/vim-sensible"]
 	path = bundle/vim-sensible
 	url = https://github.com/tpope/vim-sensible.git
-[submodule "bundle/nginx.vim"]
-	path = bundle/nginx.vim
-	url = https://github.com/chr4/nginx.vim.git
 [submodule "bundle/vim-git"]
 	path = bundle/vim-git
 	url = https://github.com/tpope/vim-git.git
 [submodule "bundle/vim-markdown"]
 	path = bundle/vim-markdown
 	url = https://github.com/plasticboy/vim-markdown.git
-[submodule "bundle/vim-protobuf"]
-	path = bundle/vim-protobuf
-	url = https://github.com/uarun/vim-protobuf.git
 [submodule "bundle/vim-yaml"]
 	path = bundle/vim-yaml
 	url = https://github.com/stephpy/vim-yaml.git
